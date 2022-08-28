@@ -1,0 +1,1 @@
+C:\Users\rori1\Desktop\github\testPlugin\build\classes\kotlin\main\com\github\rilyhugu\testplugin\CheckClickedBlock.class;C:\Users\rori1\Desktop\github\testPlugin\build\classes\kotlin\main\com\github\rilyhugu\testplugin\TestPlugin.class
